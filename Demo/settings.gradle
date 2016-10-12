@@ -1,2 +1,1 @@
-include ':weiboSDK'
-include ':weiboSDKDemo'
+include ':weiboSDK', ':baidulbssdk', ':weiboSDKDemo'

@@ -21,5 +21,6 @@ android {
 
 dependencies {
     compile project(':weiboSDK')
-//    compile 'com.android.support:support-v4:20.+'
+    //    compile 'com.android.support:support-v4:20.+'
+    compile project(':baidulbssdk')
 }
